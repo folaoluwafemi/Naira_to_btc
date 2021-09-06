@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bitcoin Converter</string>
+    <string name="amount_in_naira">Amount in Naira</string>
+    <string name="round_up_result">Round Up result</string>
+    <string name="convert">CONVERT</string>
+    <string name="amount_in_bitcoin">Amount in Bitcoin</string>
+    <string name="bitcoin_amount">Amount in Bitcoin: %s฿</string>
+
+</resources>
